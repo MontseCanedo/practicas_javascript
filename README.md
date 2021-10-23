@@ -1,2 +1,2 @@
-# practicas_javascript
-pequeños proyectos en JavaScript
+# Javascript
+proyectos en JavaScript
